@@ -10,6 +10,7 @@ export default {
     extend: {
       colors: {
         primary_pink: "#ED017F",
+        secondary_pink: "#FCE0EF",
       },
     },
   },
