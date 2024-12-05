@@ -27,7 +27,7 @@ const Hero = () => {
             size={24}
           />
           <p className="text-xl font-bold">+91980</p>
-          <div className="w-[2px] h-8 rounded-full bg-gray-400" />
+          <div className="w-[2px] h-7 rounded-full bg-gray-300" />
           <Image
             src="/facebook.png"
             alt="facebook"
