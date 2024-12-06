@@ -1,7 +1,7 @@
 import Experience from "@/components/Experience";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
-
+import Partners from "@/components/Partners";
 const page = () => {
   return (
     <main>
@@ -11,6 +11,7 @@ const page = () => {
         <Hero />
       </section>
       <Experience />
+      <Partners />
     </main>
   );
 };
