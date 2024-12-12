@@ -1,5 +1,6 @@
 import Experience from "@/components/Experience";
 import Hero from "@/components/Hero";
+import Idpc from "@/components/Idpc";
 import Navbar from "@/components/Navbar";
 import Partners from "@/components/Partners";
 const page = () => {
@@ -12,6 +13,7 @@ const page = () => {
       </section>
       <Experience />
       <Partners />
+      <Idpc />
     </main>
   );
 };
