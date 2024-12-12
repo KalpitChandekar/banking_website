@@ -3,6 +3,7 @@ import Hero from "@/components/Hero";
 import Idpc from "@/components/Idpc";
 import Navbar from "@/components/Navbar";
 import Partners from "@/components/Partners";
+
 const page = () => {
   return (
     <main>
